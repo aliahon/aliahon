@@ -31,15 +31,19 @@ Hi there! I'm Nohaila EL IDRISSI, a passionate Software Engineering student fami
   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C7B7.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-![Noha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliahon&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahon&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
-  ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/nohaila-el-idrissi-8b745624b/)
-- [GitHub](https://github.com/aliahon)
-- [Email](nohaila09el@gmail.com)
+## 🎨 Fun Fact
 
-## 🎯 Fun Fact
+I love exploring the **intersection of technology and creativity**. When I'm not coding, you can find me:
 
-I love exploring the intersection of technology and creativity. When I'm not coding, you can find me painting or hiking in the mountains.
+- 📚 **Reading**: Diving into books and exploring new ideas.
+- 🏞️ **Hiking**: Enjoying the serenity of nature and the challenge of the trails.
+- 🧶 **Knitting**: Crafting cozy and intricate patterns by hand.
+
+Whether it's in a good book, on a mountain trail, or with knitting needles, I find inspiration everywhere!
+
 
