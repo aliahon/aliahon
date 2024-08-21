@@ -44,6 +44,6 @@ I love exploring the **intersection of technology and creativity**. When I'm not
 - 🏞️ **Hiking**: Enjoying the serenity of nature and the challenge of the trails.
 - 🧶 **Knitting**: Crafting cozy and intricate patterns by hand.
 
-Whether it's in a good book, on a mountain trail, or with knitting needles, I find inspiration everywhere!
+Whether it's in a good book, on a mountain trail, or with knitting needles, I find ✨inspiration✨ everywhere!
 
 
