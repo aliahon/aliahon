@@ -3,7 +3,6 @@
 Hi there! I'm Nohaila EL IDRISSI, a passionate Software Engineering student familiar with Java, Object-Oriented Programming, and Python. Currently, I'm diving deep into full-stack development with a focus on the MERN stack. I'm eager to learn, collaborate, and grow in the tech community.
 
 ## 🛠️ Skills
-(ps: hadchi makan3refch lih, ghi khdemt bih chi mrra :)
 
 - ### Languages: 
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
