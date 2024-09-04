@@ -1,7 +1,6 @@
 # Nohaila EL IDRISSI
 
-Hi there! I'm Nohaila EL IDRISSI, a passionate Software Engineering student familiar with Java, Object-Oriented Programming, and Python. Currently, I'm diving deep into full-stack development with a focus on the MERN stack. I'm eager to learn, collaborate, and grow in the tech community.
-
+Hi there! I'm Nohaila EL IDRISSI, a passionate Software Engineering student. I'm driven by a strong desire to solve problems, think critically, and continuously improve. I thrive on collaboration, adaptability, and paying attention to the details that make a difference.
 ## 🛠️ Skills
 
 - ### Languages: 
@@ -35,9 +34,7 @@ Hi there! I'm Nohaila EL IDRISSI, a passionate Software Engineering student fami
 
 I love exploring the **intersection of technology and creativity**. When I'm not coding, you can find me:
 
-- 📚 **Reading**: Diving into books and exploring new ideas.
-- 🏞️ **Hiking**: Enjoying the serenity of nature and the challenge of the trails.
-- 🧶 **Knitting**: Crafting cozy and intricate patterns by hand.
+📚 **Reading** &nbsp;|&nbsp; 🏞️ **Hiking** &nbsp;|&nbsp; 🧶 **Knitting**
 
 Whether it's in a good book, on a mountain trail, or with knitting needles, I find ✨inspiration✨ everywhere!
 
