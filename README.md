@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliahon&label=Profile%20views&color=0e75b6&style=flat" alt="aliahon" /> </p>
-
 # Nohaila EL IDRISSI
 
 Hi there! I'm Nohaila EL IDRISSI, a passionate Software Engineering student. I'm driven by a strong desire to solve problems, think critically, and continuously improve. I thrive on collaboration, adaptability, and paying attention to the details that make a difference.
