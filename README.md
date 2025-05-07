@@ -4,6 +4,7 @@ Hi there! I'm Nohaila EL IDRISSI, a passionate Software Engineering student. I'm
 ## 🛠️ Skills
 
 - ### Languages: 
+  ![SpringBoot](https://img.shields.io/badge/SpringBoot-%2401A6A8.svg?style=for-the-badge&logo=springboot&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
