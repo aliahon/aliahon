@@ -1,42 +1,137 @@
-# Nohaila EL IDRISSI
+<div align="center">
 
-Hi there! I'm Nohaila EL IDRISSI, a passionate Software Engineering student. I'm driven by a strong desire to solve problems, think critically, and continuously improve. I thrive on collaboration, adaptability, and paying attention to the details that make a difference.
-## 🛠️ Skills
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=E4D6CC&center=true&vCenter=true&random=false&width=550&lines=Salam+Alaikum!+I'm+Nohaila+%E2%9C%A8;Software+Engineering+Student+%F0%9F%8E%93;Backend+and+Data+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="700">
 
-- ### Languages: 
-  ![SpringBoot](https://img.shields.io/badge/SpringBoot-%2401A6A8.svg?style=for-the-badge&logo=springboot&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### 💫 Build with intention 🌱 Learn with curiosity  🔧 Improve with consistency
 
-- ### Web Development: 
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Passionate about building systems, understanding how they work, and making technology both useful and meaningful.
+I enjoy designing solutions that connect backend logic, clean architecture, data, and real-world needs.
 
-- ### Other: 
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![NoSQL](https://img.shields.io/badge/NoSQL-%23000000.svg?style=for-the-badge&logo=nosql&logoColor=white)
-  ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%234A90E2.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C7B7.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nohaila-el-idrissi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nohaila.elidrissi3002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliahon)
 
+
+
+</div>
+
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="200" src="https://github.com/aliahon/aliahon/blob/main/ezgif.com-gif-maker.gif">
+
+🎓 Software Engineering student at ENSA Agadir
+
+💼 Looking for a PFE internship starting February 2026
+
+🧠 Interested in backend engineering, data science, machine learning, and agile ecosystems
+
+🧩 Driven by clarity, structure, and solving impactful problems
+
+🌍 Speaks Arabic, Tamazight, English, French
+
+
+
+
+## 🛠️ My Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahon&layout=compact&theme=radical" alt="Top Langs" />
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🔧 Backend & Database
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🤖 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 </div>
 
 
-## 🎨 Fun Fact
+## 📊 GitHub Analytics
 
-I love exploring the **intersection of technology and creativity**. When I'm not coding, you can find me:
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aliahon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliahon&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
+
+</div>
+
+
+## <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="70"> When I'm Not Coding...
+
+<div align="center">
+
+I love exploring the **intersection of technology and creativity**
 
 📚 **Reading** &nbsp;|&nbsp; 🏞️ **Hiking** &nbsp;|&nbsp; 🧶 **Knitting**
 
-Whether it's in a good book, on a mountain trail, or with knitting needles, I find ✨inspiration✨ everywhere!
+Whether it's in a good book, on a mountain trail, or with knitting needles, I find ✨**inspiration**✨ everywhere!
+
+</div>
+
+---
+<div align="center">
 
 
+### 💬 Let's Build Something Amazing Together!
+
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="100"> 
+
+🎯 **Open to PFE Internship Opportunities - Starting February 2026**
+
+**Thanks for stopping by! Have a great day! 😊**
+<div align="">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
+
+</div>
