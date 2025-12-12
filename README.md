@@ -76,10 +76,7 @@ I enjoy designing solutions that connect backend logic, clean architecture, data
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=aliahon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parodie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=aliahon&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" />
 </div>
 
 
