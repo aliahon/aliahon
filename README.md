@@ -77,10 +77,8 @@ I enjoy designing solutions that connect backend logic, clean architecture, data
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aliahon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliahon&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
+![](https://nirzak-streak-stats.vercel.app/?user=aliahon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parodie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
