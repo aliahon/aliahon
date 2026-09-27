@@ -100,7 +100,6 @@ Whether it's in a good book, on a mountain trail, or with knitting needles, I fi
 
 <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="100"> 
 
-🎯 **Open to PFE Internship Opportunities - Starting February 2026**
 
 **Thanks for stopping by! Have a great day! 😊**
 <div align="">
