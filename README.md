@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=E4D6CC&center=true&vCenter=true&random=false&width=550&lines=Salam+Alaikum!+I'm+Nohaila+%E2%9C%A8;Software+Engineering+Student+%F0%9F%8E%93;Backend+and+Data+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=E4D6CC&center=true&vCenter=true&random=false&width=550&lines=Salam+Alaikum!+I'm+Nohaila+%E2%9C%A8;Software+Engineer+%F0%9F%8E%93;Backend+and+Data+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="700">
 
 ### 💫 Build with intention 🌱 Learn with curiosity  🔧 Improve with consistency
